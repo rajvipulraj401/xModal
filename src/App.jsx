@@ -1,3 +1,11 @@
+/* nOTE -- 
+ 
+1) dO AGAIN THE OUTSIDE CLICK THING if problem see quad b there you have implemented this feature.
+
+2) see the css that chatgpt gave you  for the modal that will be helpful to understand how to make modal.................
+
+   */
+
 import React, { useEffect, useState } from "react";
 // import "./App.css";
 import "./App.css";

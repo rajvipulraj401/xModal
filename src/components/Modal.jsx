@@ -21,7 +21,8 @@ const Modal = ({ phoneNumber, handlePhoneNumber, onFormSubmit }) => {
           <input type="email" name="email" id="email" placeholder="" required />
           <label>Phone Number:</label>
           <input
-            type="number"
+            // type="number"
+            type="tel"
             name=""
             id="phone"
             placeholder=""
